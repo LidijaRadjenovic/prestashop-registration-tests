@@ -3,6 +3,8 @@
 Playwright tests for the customer registration flow on the public PrestaShop demo.
 The suite covers successful registration and sign-in, required-field and
 format validation, and duplicate-email handling.
+The project also includes exploratory testing findings, 
+with a documented issue and supporting screenshot.
 
 ## Requirements
 
